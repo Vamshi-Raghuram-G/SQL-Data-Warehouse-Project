@@ -1,6 +1,6 @@
 # SQL-Data-Warehouse-Project
 
-#### This project demonstrates a comprehensive data warehousing and analytics solution, covering everything from building a data warehouse to generating actionable insights.
+#### This project demonstrates a comprehensive data warehousing and analytics solution, covering all aspects of building a data warehouse.
 
 ## Data Architecture
 #### The data architecture for this project follows the Medallion Architecture, comprising Bronze, Silver, and Gold layers:
